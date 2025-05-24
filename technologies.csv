@@ -1,0 +1,11 @@
+Technologies,Fuel,Legacy capacity,Maximum capacity,Rated efficiency,Fuel costs,Fuel CO2 content,Investment cost,Lifetime,Discount rate,Availability,Must-run fraction,Ramp-up rate,Ramp-down rate
+Old Nuclear,UO2,63100,63100,0.33,2,0,10000000,50,0.1,1,0.2,0.1,0.1
+New Nuclear,UO2,0,45000,0.33,2,0,10000000,50,0.1,1,0.2,0.1,0.1
+Coal,Coal,1755,1755,0.4,12,0.338,3000000,40,0.1,1,0,0.5,0.5
+CCGT,Gas,6882,6882,0.55,25,0.205,1000000,35,0.1,1,0,1,1
+GT,Gas,454,454,0.4,25,0.205,700000,25,0.1,1,0,1,1
+Fioul,Oil,1640,1640,0.45,35,0.281,1500000,15,0.1,1,0,1,1
+Wind onshore,wind,22144,74000,1,0,0,1500000,25,0.1,1,0,1,1
+Wind offshore,wind,1473,62000,1,0,0,3000000,25,0.1,1,0,1,1
+PV,solar,17400,214000,1,0,0,1000000,25,0.1,1,0,1,1
+Hydropower,water,21200,22200,1,0,0,200000,80,0.1,1,0,1,1
